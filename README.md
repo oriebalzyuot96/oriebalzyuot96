@@ -47,7 +47,7 @@ I've shipped production UI for **6+ years**, most recently leading front-end arc
 | 🏗️ **Saudi Engineering Arbitration Center**<br><sub><bdi>مركز التحكيم الهندسي السعودي</bdi></sub> | E-arbitration for engineering disputes under the Saudi Council of Engineers | Role-based portals for arbitrators, establishments, individuals and experts; case filing and hearings | [Client environment](https://web01.techprocess.net:28059) |
 | 📄 **Contracts: Digital Contracts & e-Signature**<br><sub><bdi>عقود — منصة العقود الرقمية</bdi></sub> | Create, manage and e-sign contracts for individuals and companies | Contract builder, sign-in flows, bilingual documents | [contracts.com.sa](https://contracts.com.sa) · public sign-up |
 | ⚖️ **Ministry of Justice**<br><sub><bdi>وزارة العدل</bdi></sub> | Government justice platforms | Front-end delivery with Saudi Azm | Government · restricted |
-| 🧭 **Mirafh Portal** | Enterprise digital platform | Component library, responsive UI from Figma / XD | [mirafh.sa](https://mirafh.sa) · rolling out |
+| 🧭 **Mirafh Portal** | Enterprise digital platform | Component library, responsive UI from Figma / XD | Not public yet |
 | 🧩 **Low-code automation** · Tahaluf Al Emarat | Low-code / no-code business automation for UAE government and enterprise | Angular 16 + PrimeNG designer modules, load-time and memory fixes | Internal |
 | 📊 **HR solution: Payroll & Performance** · Shepherd | Cloud human-capital-management suite | Features, bug fixes and performance work across **AngularJS, Angular 8 and Angular 14** | Customer sign-in |
 | 🎓 **E-learning system** · Shepherd | Employee training alongside the HR suite | Course, enrolment and learner-progress screens | Customer sign-in |
