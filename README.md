@@ -54,6 +54,7 @@ I've shipped production UI for **6+ years**, most recently leading front-end arc
 | 📊 **HR solution: Payroll & Performance** · Shepherd | Cloud human-capital-management suite | Features, bug fixes and performance work across **AngularJS, Angular 8 and Angular 14** | Customer sign-in |
 | 🎓 **E-learning system** · Shepherd | Employee training alongside the HR suite | Course, enrolment and learner-progress screens | Customer sign-in |
 | 🗺️ **Indoor Navigation CMS** · PenguinIN | Venue CMS behind PenNav / PenTrack indoor positioning | React + OpenLayers CMS, Node + PostgreSQL API | [penguinin.com](https://penguinin.com) |
+| ✨ **Sample 03 · 3D landing page** | Cinematic bilingual landing page: Three.js hero, dark/light scroll transition, 3D fact cards | Design and build (Astro + Three.js), EN / AR RTL | [Live demo](https://oriebalzyuot96.github.io/sample-3/) · [Code](https://github.com/oriebalzyuot96/sample-3) |
 | 💎 **Bareeq Al-Aeeq** <sub><bdi>بريق العقيق</bdi></sub> | Angular 21 web + portal and Expo mobile monorepo with shared design tokens | Everything. Open source. | [oriebalzyuot96/angular](https://github.com/oriebalzyuot96/angular) |
 
 ## 🚀 Experience
