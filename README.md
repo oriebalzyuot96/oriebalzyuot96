@@ -31,12 +31,14 @@ I've shipped production UI for **6+ years**, most recently leading front-end arc
 
 - **Architect and owner.** I take projects from Figma / Adobe XD to production and stay accountable after launch, through code review, CI/CD and the 2 a.m. bug.
 - **Modernisation without downtime.** I've worked in every Angular era, **AngularJS → 8 → 14 → 16 → 21/22**, and I migrate legacy estates to **Signals** step by step, with measured gains.
+- **Modern front-end range.** Angular is home, alongside React, Next.js, **Astro** and **Svelte**.
 - **Full stack when it matters.** I build **.NET Core and Node.js** microservices, **PostgreSQL / MongoDB** data layers and **Azure** deployments, all containerised with **Docker**.
 - **Human-first, always 💜.** That means accessibility (WCAG), Arabic/RTL that feels native, honest error states, and AI that helps people rather than replacing them.
 
-💼 **Available for freelance & contract work:** Angular migrations, front-end architecture, React Native apps, and WCAG / Arabic RTL audits.
+💼 **Hire me:** full-time, contract or freelance, remote or relocation. Angular migrations, front-end architecture, React Native apps, Astro sites, and WCAG / Arabic RTL audits.
+[Saudi Arabia](https://oriebalzyuot96.github.io/hire/saudi-arabia/) · [UAE](https://oriebalzyuot96.github.io/hire/uae/) · [Jordan](https://oriebalzyuot96.github.io/hire/jordan/) · [Freelance / remote](https://oriebalzyuot96.github.io/hire/freelance/) · [العربية](https://oriebalzyuot96.github.io/ar/)
 
-👉 **See screenshots, case studies and the bilingual, accessibility-first build at [oriebalzyuot96.github.io](https://oriebalzyuot96.github.io).**
+👉 **See screenshots, case studies and a 40-second intro (with original music) on my Astro-built, bilingual, accessibility-first portfolio at [oriebalzyuot96.github.io](https://oriebalzyuot96.github.io).**
 
 ## 🛰️ Platforms I've delivered
 
@@ -86,6 +88,8 @@ I've shipped production UI for **6+ years**, most recently leading front-end arc
   <img src="https://img.shields.io/badge/React_Native-6D28D9?style=flat-square&logo=react&logoColor=white" alt="React Native" />
   <img src="https://img.shields.io/badge/Expo-6D28D9?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
   <img src="https://img.shields.io/badge/Next.js-6D28D9?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Astro-6D28D9?style=flat-square&logo=astro&logoColor=white" alt="Astro" />
+  <img src="https://img.shields.io/badge/Svelte-6D28D9?style=flat-square&logo=svelte&logoColor=white" alt="Svelte" />
   <img src="https://img.shields.io/badge/Node.js-7C3AED?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express-7C3AED?style=flat-square&logo=express&logoColor=white" alt="Express" />
   <img src="https://img.shields.io/badge/.NET_Core-7C3AED?style=flat-square&logo=dotnet&logoColor=white" alt=".NET Core" />
@@ -140,10 +144,9 @@ I already ship with Claude, Claude Code and Cursor every day. Next I'm building 
   <img src="https://img.shields.io/badge/RAG-C084FC?style=flat-square&logo=databricks&logoColor=white" alt="RAG" />
 </p>
 
-## 📡 Telemetry
+## 📡 Languages I write
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oriebalzyuot96&show_icons=true&hide_border=true&title_color=A855F7&icon_color=C084FC&text_color=E9D5FF&bg_color=12042B" alt="GitHub stats" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oriebalzyuot96&layout=compact&hide_border=true&title_color=A855F7&text_color=E9D5FF&bg_color=12042B" alt="Top languages" height="160" />
 </p>
 
