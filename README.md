@@ -27,16 +27,17 @@
 
 ## 🌌 In short
 
-I've shipped production UI for **6+ years**, most recently leading front-end architecture on **Saudi government, fintech and enterprise platforms**. I design the system before the screens: feature boundaries, Signals-based state, typed API contracts and shared design tokens, so a large team can move fast without breaking each other.
+I've shipped production UI for **6+ years**, building **government, fintech, HR and enterprise products** that people rely on, for teams in Saudi Arabia, the UAE and Jordan, and open to the world. I design the system before the screens: feature boundaries, Signals-based state, typed API contracts and shared design tokens, so a large team can move fast without breaking each other.
 
 - **Architect and owner.** I take projects from Figma / Adobe XD to production and stay accountable after launch, through code review, CI/CD and the 2 a.m. bug.
 - **Modernisation without downtime.** I've worked in every Angular era, **AngularJS → 8 → 14 → 16 → 21/22**, and I migrate legacy estates to **Signals** step by step, with measured gains.
 - **Modern front-end range.** Angular is home, alongside React, Next.js, **Astro** and **Svelte**.
 - **Full stack when it matters.** I build **.NET Core and Node.js** microservices, **PostgreSQL / MongoDB** data layers and **Azure** deployments, all containerised with **Docker**.
+- **Why I do this 🌱.** I love seeing a website succeed because it genuinely helps people: a citizen filing a complaint in minutes, an employee paid on time, a family comparing financing offers from a phone.
 - **Human-first, always 💜.** That means accessibility (WCAG), Arabic/RTL that feels native, honest error states, and AI that helps people rather than replacing them.
 
 💼 **Hire me:** full-time, contract or freelance, remote or relocation. Angular migrations, front-end architecture, React Native apps, Astro sites, and WCAG / Arabic RTL audits.
-[Saudi Arabia](https://oriebalzyuot96.github.io/hire/saudi-arabia/) · [UAE](https://oriebalzyuot96.github.io/hire/uae/) · [Jordan](https://oriebalzyuot96.github.io/hire/jordan/) · [Freelance / remote](https://oriebalzyuot96.github.io/hire/freelance/) · [العربية](https://oriebalzyuot96.github.io/ar/)
+[Freelance / remote, worldwide](https://oriebalzyuot96.github.io/hire/freelance/) · [Saudi Arabia](https://oriebalzyuot96.github.io/hire/saudi-arabia/) · [UAE](https://oriebalzyuot96.github.io/hire/uae/) · [Jordan](https://oriebalzyuot96.github.io/hire/jordan/) · [العربية](https://oriebalzyuot96.github.io/ar/)
 
 👉 **See screenshots, case studies and a 40-second intro (with original music) on my Astro-built, bilingual, accessibility-first portfolio at [oriebalzyuot96.github.io](https://oriebalzyuot96.github.io).**
 
