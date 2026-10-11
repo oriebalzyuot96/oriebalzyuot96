@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="./orieb-banner.svg" alt="Orieb Alzyuot, Senior Front-End and Full-Stack Web & Mobile Developer, floating in purple space" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./orieb-banner-dark.png" />
+    <img src="./orieb-banner-light.png" alt="Orieb Alzyuot (عريب الزيوت), Senior Front-End and Full-Stack Web & Mobile Engineer: Angular, React, React Native, TypeScript, .NET Core" width="100%" />
+  </picture>
 </p>
 
 <h1 align="center">🪐 Hi, I'm Orieb <sub><bdi>عريب الزيوت</bdi></sub>, welcome to my little purple galaxy ✨</h1>
