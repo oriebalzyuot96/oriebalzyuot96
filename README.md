@@ -166,7 +166,7 @@ I already ship with Claude, Claude Code and Cursor every day. Next, I'm building
 
 > **Forget "just 5 minutes."** Open the editor and write code, and the next hour takes care of itself.
 
-That idea is behind my **5min** habit: ship something small every day. My fish-and-whale mindset 🐋: start tiny, grow big, and **smile** while you do it.
+That idea is behind my **[5min](https://oriebalzyuot96.github.io/samples/5min/)** habit: ship something small every day. My fish-and-whale mindset 🐋: start tiny, grow big, and **smile** while you do it.
 
 ---
 
