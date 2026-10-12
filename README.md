@@ -57,7 +57,9 @@ I've shipped production UI for **6+ years**, on **government, fintech, HR and en
 | 🎓 **E-learning system** · Shepherd | Employee training alongside the HR suite | Course, enrolment and learner-progress screens | Customer sign-in |
 | 🗺️ **Indoor Navigation CMS** · PenguinIN | Venue CMS behind PenNav / PenTrack indoor positioning | React + OpenLayers CMS, Node + PostgreSQL API | [penguinin.com](https://penguinin.com) |
 | ✨ **Sample 03 · 3D landing page** | Cinematic bilingual landing page: Three.js hero, dark/light scroll transition, 3D fact cards | Design and build (Astro + Three.js), EN / AR RTL | [Live demo](https://oriebalzyuot96.github.io/sample-3/) · [Code](https://github.com/oriebalzyuot96/sample-3) |
-| 💎 **Bareeq Al-Aeeq** <sub><bdi>بريق العقيق</bdi></sub> | Angular 21 web + portal and Expo mobile monorepo with shared design tokens | Everything. Open source. | [oriebalzyuot96/angular](https://github.com/oriebalzyuot96/angular) |
+| 💎 **Bareeq Al-Aeeq** <sub><bdi>بريق العقيق</bdi></sub> | Luxury interior-design brand: marketing site with consultation booking, client portal and mobile app on shared design tokens | Everything: Angular 21, React Native (Expo) | [Screenshots](https://oriebalzyuot96.github.io/#p-bareeq) |
+| 🧭 **Al Taqadum Al Mustamer** <sub><bdi>التقدّم المستمر</bdi></sub> | Business-automation website with a 7-step partnership assessment | Angular 22 build from Figma, EN / AR RTL | [Screenshots](https://oriebalzyuot96.github.io/#p-taqadum) |
+| 📱 **Asset Conversion · AED ⇄ USDT** | Fintech mobile app: live quotes, exact decimal maths, themes, accessibility | Everything: React Native + TypeScript, 60 tests | [Code & demo](https://github.com/oriebalzyuot96/asset-conversion) |
 
 ## 💼 Experience
 
@@ -164,7 +166,7 @@ I already ship with Claude, Claude Code and Cursor every day. Next, I'm building
 
 > **Forget "just 5 minutes."** Open the editor and write code, and the next hour takes care of itself.
 
-That idea is behind [**5min**](https://github.com/oriebalzyuot96/5min): ship something small every day. My fish-and-whale mindset 🐋: start tiny, grow big, and **smile** while you do it.
+That idea is behind my **5min** habit: ship something small every day. My fish-and-whale mindset 🐋: start tiny, grow big, and **smile** while you do it.
 
 ---
 
