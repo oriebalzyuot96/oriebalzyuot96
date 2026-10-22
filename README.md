@@ -126,6 +126,21 @@ I've shipped production UI for **6+ years**, on **government, fintech, HR and en
   <img src="https://img.shields.io/badge/Adobe_XD-C084FC?style=flat-square&logo=adobexd&logoColor=white" alt="Adobe XD" />
 </p>
 
+## 🛡️ Open source: riskdebt
+
+**[riskdebt](https://github.com/oriebalzyuot96/riskdebt)** finds the security debt hiding in a project and tells you **where** it is and **how to fix it**: unpinned and compromised dependencies, leaked secrets, end-of-life runtimes, risky AI-agent / MCP settings, unsafe token storage, and Angular, React, .NET, PHP and Python code smells. The same rules ship in **Go, Node.js and Python**, tested against each other in CI, with a GitHub Action and SARIF for code scanning.
+
+<p align="center">
+  <a href="https://github.com/oriebalzyuot96/riskdebt"><img src="./riskdebt-demo.gif" alt="riskdebt explainer: the problem, a terminal scan with findings and fixes, rule families, token storage checks, CI and install commands" width="640" /></a><br/>
+  <a href="https://www.npmjs.com/package/riskdebt"><img src="https://img.shields.io/npm/v/riskdebt?logo=npm&color=7C3AED" alt="npm" /></a>
+  <a href="https://pypi.org/project/riskdebt/"><img src="https://img.shields.io/pypi/v/riskdebt?logo=pypi&logoColor=white&color=8B5CF6" alt="PyPI" /></a>
+  <img src="https://img.shields.io/badge/Go_·_Node.js_·_Python-A855F7" alt="Go, Node.js, Python" />
+</p>
+
+```bash
+npx riskdebt .        # or: pip install riskdebt
+```
+
 ## 🐛 Bugs I've reported upstream
 
 When a library breaks in production, I report it upstream with a reproducer instead of quietly working around it, so the next developer doesn't hit the same wall.
