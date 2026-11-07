@@ -10,6 +10,7 @@
 <p align="center">
   <b>Senior Front-End · Full-Stack Web & Mobile Engineer</b> · Amman, Jordan 🇯🇴<br/>
   I build the interfaces people rely on, and the services behind them.<br/>
+  Open-source contributor: <a href="https://github.com/mozilla/pdf.js/pull/22320">Mozilla pdf.js</a> · <a href="https://github.com/analogjs/analog/pull/2684">Analog</a> · <a href="https://github.com/deiv/ngx-markdown-it/pull/6">ngx-markdown-it</a><br/>
   <sub>Remote · Relocation · Full-time · Contract · Freelance</sub>
 </p>
 
@@ -140,6 +141,17 @@ I've shipped production UI for **6+ years**, on **government, fintech, HR and en
 ```bash
 npx riskdebt .        # or: pip install riskdebt
 ```
+
+## 🔧 Code I've contributed upstream
+
+I fix problems where they start: when a library I depend on has a bug, I send the patch, with tests, to the project itself.
+
+| Library | Pull request | What I changed | Status |
+| --- | --- | --- | --- |
+| 📄 **Mozilla pdf.js** (`pdfjs-dist`) | [#22320](https://github.com/mozilla/pdf.js/pull/22320) | The `PDFViewer` component kept drawing pages for the old pixel ratio after a monitor switch or browser zoom, so every app that embeds it went blurry. I moved the resolution listener from the full viewer into `PDFViewer` and added an integration test for Chrome and Firefox. Repro with before/after: [pdfjs-viewer-dpr-fix](https://github.com/oriebalzyuot96/pdfjs-viewer-dpr-fix). | 🟡 In review |
+| 🅰️ **Analog** (`@analogjs/astro-angular`) | [#2684](https://github.com/analogjs/analog/pull/2684) | Angular islands in Astro without hydration crashed on signal `output()` and ignored aliased outputs. I reported it ([#2683](https://github.com/analogjs/analog/issues/2683)) and shipped the fix: the client bootstrap now binds inputs and outputs like the hydrated path. | ✅ Merged |
+| 📝 **ngx-markdown-it** | [#6](https://github.com/deiv/ngx-markdown-it/pull/6) | Markdown rendered with the `commonmark` preset could inject raw HTML (`<img onerror>`), an XSS risk. I added an opt-in `sanitize` option through Angular's `DomSanitizer` and fixed the library's test bootstrap. | ✅ Merged |
+| 🛡️ **HOL plugin registry** (`awesome-ai-plugins`) | [#948](https://github.com/hashgraph-online/awesome-ai-plugins/pull/948) | Listed riskdebt in the registry of AI-assistant plugins after their review. | ✅ Merged |
 
 ## 🐛 Bugs I've reported upstream
 
